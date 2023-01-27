@@ -1,7 +1,7 @@
 # Document For AsSQL
 
 <b>Download it using pip:</b>
-* `` pip install asSQL ``
+ ``` pip install asSQL ```
 <pre></pre>
 <b>On Pypi:</b>
 * <a href="https://pypi.org/project/asSQL">asSQL</a>
